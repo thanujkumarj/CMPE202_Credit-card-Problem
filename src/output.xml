@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CARDS>
+    <CARD>
+        <CARD_NUMBER>6011888800007756</CARD_NUMBER>
+        <CARD_TYPE>Discover Card</CARD_TYPE>
+    </CARD>
+    <CARD>
+        <CARD_NUMBER>373856341908333</CARD_NUMBER>
+        <CARD_TYPE>AmericanExpress Card</CARD_TYPE>
+    </CARD>
+    <CARD>
+        <CARD_NUMBER>4423456789120000</CARD_NUMBER>
+        <CARD_TYPE>Visa Card</CARD_TYPE>
+    </CARD>
+    <CARD>
+        <CARD_NUMBER>5267894523121011</CARD_NUMBER>
+        <CARD_TYPE>Master Card</CARD_TYPE>
+    </CARD>
+</CARDS>

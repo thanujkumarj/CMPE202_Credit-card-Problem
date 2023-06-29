@@ -1,0 +1,8 @@
+cardNumber,expirationDate,cardHolderName
+6011999911119999,08/26,Discover
+344856341955111,04/26,American Express
+4444444444444,03/23,Visa
+5453894523126011,02/24,Master Card
+3711111111111111,08/26, Invalid NoPossibleCardNum
+3748563419555a$,08/26,Invalid NonNumericChars
+,06/24,Invalid NoCardNumber

@@ -1,0 +1,8 @@
+CardNumber,Type
+6011999911119999,Discover Card
+344856341955111,AmericanExpress Card
+4444444444444,Visa Card
+5453894523126011,Master Card
+3711111111111111,Invalid:not a possible card
+3748563419555a$,Invalid:non numeric characters
+,Invalid:empty/null card number
